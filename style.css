@@ -1,0 +1,28 @@
+body{
+    background-size:cover;
+    color: aliceblue;
+}
+
+#div-tag{
+    width: 100%;
+}
+
+#song_name_label{
+    font-size: 25px;
+font-family: fantasy;
+}
+
+h2{
+    font-family: cursive;
+}
+
+p{
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+}
+
+canvas{
+    border: 5px white solid;
+    margin-top: 50px;
+}
